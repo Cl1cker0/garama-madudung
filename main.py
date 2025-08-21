@@ -5,7 +5,6 @@ from keep_alive import keep_alive
 from discord import listener
 from src.roblox import roblox_main
 
-keep_alive()
 # https://github.com/notasnek/roblox-autojoiner
 # буду рад звезде на репозитории / please STAR my repo
 
@@ -26,7 +25,7 @@ if __name__ == "__main__":
 
     threading.Thread(target=roblox_main, daemon=True).start()
     asyncio.run(listener())
-    keep_alive()
+
 
 
 # https://github.com/notasnek/roblox-autojoiner
