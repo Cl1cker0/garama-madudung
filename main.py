@@ -1,7 +1,6 @@
 import asyncio
 import threading
 import time
-from keep_alive import keep_alive
 from discord import listener
 from src.roblox import roblox_main
 
@@ -29,3 +28,4 @@ if __name__ == "__main__":
 
 
 # https://github.com/notasnek/roblox-autojoiner
+
