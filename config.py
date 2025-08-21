@@ -3,7 +3,7 @@
 
 
 
-DISCORD_TOKEN = "MTM0MzMxODg4MTA2MTU3MjY3OQ.GrGwPS.dCxWwi6yRqtvshO7NHF6RKdPiPH5yDIC_eXdmU"
+DISCORD_TOKEN = ""
 # discord token / дискорд токен
 # гайд/guide: https://www.youtube.com/results?search_query=how+to+get+discord+token
 
@@ -60,6 +60,7 @@ CHILLI_HUB_CHANNELS_ID = {
     "1m-10m": ["1401775061706346536", "1401775125765947442"], # 1m - 10m channels
     "10m_plus": ["1401775181025775738"] # 10m+ channels
 }
+
 
 
 
